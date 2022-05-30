@@ -1,0 +1,258 @@
+
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.Header-Principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /*background-color: hsl(260, 75%, 11%);*/
+    background-image: url(../IMAGENES/LOGOS/banner-inferioooor.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /*background-position: center;
+    background-origin: initial;
+    /*background-attachment: fixed;
+    background-size: cover;*/
+    width: 100%;
+    height: 20vh;
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    border: 2px solid white;
+    
+
+}
+
+.LogoPrincipal{
+    width: 10%;
+    height: 17vh;
+    /*border: 3px solid white;*/
+    margin: 0%;
+  
+}
+
+.BannerPrincipal{
+    display: inline;
+    width: 20%;
+    height: 100%;
+    border: 3px solid rgb(214, 10, 10);
+    margin: 0%;
+    
+
+    
+}
+
+.DailyPR{
+    /*background-color: brown;*/
+    color: white;
+    font-size: 5vh;
+    display: inline;
+    width: 26%;
+    /*border: 3px solid rgb(214, 10, 10);*/
+    margin: 0%;
+    font-style: italic;
+    
+}
+
+.Nav-Principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 39%;
+    height: 4vh;
+    margin: 5%;
+    justify-content: space-around 20%;
+    font-weight: 900;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.inicio-nav{
+    color: rgb(84, 155, 214);
+}
+a{  
+    text-decoration: none;
+    color: white;
+    
+
+    
+}
+
+.MainPr{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../IMAGENES/LOGOS/post.png);
+    background-repeat: repeat;
+    background-size: 35%;
+    /*background-color: rgb(14, 4, 34);*/
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+   
+    
+}
+
+.logobr{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+
+
+}
+
+.logomain{
+    width: 10%;
+    height: 100%;
+    background-color: red;
+    
+    
+}
+
+.titulop{
+    font-size: 10vh;
+    width: 90%;
+    text-align: center;
+}
+
+.titulo-s{
+    width: 80%;
+    height: 30%;
+    font-size: 5vh;
+    font-style: italic;
+    text-align: center;
+}
+
+.parrafo-p{
+    width: 50%;
+    font-size: 2.5vh;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.ImagenNoticia{
+    height: 5%;
+    width: 40%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+    
+
+
+}
+
+.centerimage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.linea{
+    height: 5px;
+    width: 100%;
+    color: white;
+    background-color: white;
+    font-size: 1px;
+}
+
+.lineaa{
+        height: 100%;
+        width: 5px;
+        color: white;
+        background-color: white;
+        font-size: 1px;
+    }
+
+  .lineap{
+    height: 5px;
+    width: 130%;
+    color: white;
+    background-color: white;
+    font-size: 1px;
+  }
+
+  .logomaini{
+    width: 13%;
+    height: 100%;
+    background-color: red;
+    padding-top: 0px;
+    
+}
+
+.bannerpro{
+    height: 100%;
+    width: 100%;
+    border: 3px solid white;
+}
+
+ .bannerprotip{
+     width: 100%;
+     height: 100%;
+     border: 2px solid white;
+
+ }
+ .footer{
+     color: white;
+     text-align: center;
+     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /*background-color: hsl(260, 75%, 11%);*/
+    background-image: url(../IMAGENES/LOGOS/banner-inferioooor.png);
+    background-repeat: repeat;
+    background-size: 120%;
+    /*background-position: center;
+    background-origin: initial;
+    /*background-attachment: fixed;
+    background-size: cover;*/
+    /*width: 100%;
+    height: 25vh;
+    box-sizing: border-box;
+    /*padding: 0%;
+    margin: 0%;
+    border: 2px solid white;*/
+
+ }
+
+ .redes{
+     padding-top: 3%;
+ }
+
+ .nbredes{ 
+     padding-bottom: 2%;
+     color: white !important;
+ }
+
+ .fg{
+     padding-top: 3%;
+     padding-bottom: 5%;
+     
+ }
+
+ .logosredes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 10%;
+    size: 100px;
+    padding-top: 3%;
+ }
+ .FACEBOOKS{
+    width: 10%;
+    height: 10%;
+ }
